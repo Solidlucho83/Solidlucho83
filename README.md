@@ -1,9 +1,6 @@
-### <Hola a Todos!!!> 👋
+### Hola, Soy Luis!!! 👋
 
-Mi nombre es LUIS 
-
-
-Desarrollador FULL STACK con conocimientos en PHP, NODEJS, REACTJS , Android KOTLIN y C# (Unity), Base de Datos SQL, MONGODB, API REST y servicios de FIREBASE. 
+ Desarrollador FULL STACK ,  ya en el último tiempo volcado al 100% a Android KOTLIN, tratando de estar al día con las últimas tecnologías de google en ese campo , a su vez por experiencia tengo  conocimientos en PHP, NODEJS, REACTJS ,  C# (Unity y .Net), Base de Datos SQL, API REST y servicios varios de FIREBASE, GIT.
 
 Fanatico de Android <3
 
